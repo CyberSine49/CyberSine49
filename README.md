@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyberSine49
-- 👀 I’m interested in Cybersecurity, Cloud Computing and GDRP
-- 🌱 I’m currently learning  Cloud Security and Architect
+- 👀 I’m interested in Cybersecurity, Cloud Computing, Ai, Blockchain and GDRP
+- 🌱 I’m currently in the CyberSecurity Risk  
 - 💞️ I’m looking to collaborate on Cloud Security Project
 - 📫 How to reach me follow @Cyinesine.0rg on IG 
 
